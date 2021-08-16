@@ -1,0 +1,25 @@
+{
+  "name": "2b2tBOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "mineflayer-gui": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonLGH/NormalMineflayerBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonLGH/NormalMineflayerBot/issues"
+  },
+  "homepage": "https://github.com/MoonLGH/NormalMineflayerBot#readme"
+}
